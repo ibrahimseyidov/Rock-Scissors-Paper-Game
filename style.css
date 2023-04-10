@@ -1,0 +1,25 @@
+.border-radius {
+    border-radius: 40px; 
+}
+
+.rsc-width {
+    width: 250px;
+}
+
+.player-width {
+    width: 450px;
+}
+
+.sadsmile-width{
+    width: 80px;
+}
+
+.smile-width{
+    width: 45px;
+    margin-left: 15px;
+}
+
+.vs-width{
+    height: 300px;
+    width: 200px;
+}
